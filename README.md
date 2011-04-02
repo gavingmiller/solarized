@@ -2,7 +2,7 @@ Color Settings for OS X Terminal.App
 ====================================
 
 These instructions were forked from:
-[https://github.com/altercation/solarized](https://github.com/altercation/solarized)
+[https://github.com/altercation/solarized](https://github.com/altercation/solarized)  
 With instructions modified from:
 [http://www.byteengine.net/custom-colors-in-snow-leopard-terminal-64-bit](http://www.byteengine.net/custom-colors-in-snow-leopard-terminal-64-bit)
 
