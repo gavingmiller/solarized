@@ -19,7 +19,7 @@ If the SIMBL/Plugins directory doesn't exist, create it.
 Git repository: [https://github.com/timmfin/terminalcolours](https://github.com/altercation/solarized)  
 Download: [http://github.com/timmfin/terminalcolours/raw/master/TerminalColours-SL-64bit.zip](https://github.com/altercation/solarized)
 
-3. Install _IR\__Black.terminal_  
+3. Install _IR\_Black.terminal_  
 Download: [http://www.infinitered.com/settings/IR_Black.terminal.zip](http://www.infinitered.com/settings/IR_Black.terminal.zip)
 
 4. Modify _.profile_ to include the following line:  
