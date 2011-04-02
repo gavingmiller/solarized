@@ -22,7 +22,7 @@ Download: [http://github.com/timmfin/terminalcolours/raw/master/TerminalColours-
 3. Install _IR\_Black.terminal_  
 Download: [http://www.infinitered.com/settings/IR_Black.terminal.zip](http://www.infinitered.com/settings/IR_Black.terminal.zip)
 
-4. Modify _.profile_ to include the following line:  
+4. Modify _~/.profile_ to include the following line:  
    `export CLICOLOR=1`
 
 5. Restart Terminal, open preferences, and ensure that the "More..." button appears in the Text windows of the Settings tab  
